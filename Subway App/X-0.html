@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <title>Spiel</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="board.css">
+  </head>
+  <body> 
+    <button id="help">Hilfe</button>
+    <div id="window">
+      <img id="close" src="https://doseofkeecom.files.wordpress.com/2019/01/19aaee7e-1295-472c-9edd-d55e4a790b0c.jpg" alt="x"></img>
+      <br>
+      <p>Kannst du die Regeln des Spiels nicht? Kein Problem. Hier gibt es ein Paar Tipps:</p>
+      <p>Versuche 3 nacheinander folgende X zu setzen: horizontal, vertikal oder diagonal. Lass den Computer nicht dasselbe machen! ;)</p>
+    </div>
+    <main>
+      <h1>X - 0 SPIEL</h1>
+      <table class="board">
+        <tr>
+          <td class="left top">
+              <div id="0" class="box"></div>
+          </td>
+          <td class="vertical_middle top">
+              <div id="1" class="box"></div>
+          </td>
+          <td class="rigth top">
+              <div id="2" class="box"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="left horizontal_middle">
+              <div id="3" class="box"></div>
+          </td>
+          <td class="vertical_middle horizontal_middle">
+              <div id="4" class="box"></div>
+          </td>
+          <td class="right horizontal_middle">
+              <div id="5" class="box"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="left bottom">
+              <div id="6" class="box"></div>
+          </td>
+          <td class="vertical_middle bottom">
+              <div id="7" class="box"></div>
+          </td>
+          <td class="right bottom">
+              <div id="8" class="box"></div>
+          </td>
+        </tr> 
+      </table>
+      <br>
+      <div id="message">Du hast die Chance ein Sandwich zu gewinnen. Spiel jetzt!</div>
+      <br>
+      <div id="play">
+        <button id="button">Nochmal Spielen</button>
+      </div>
+    </main>
+    <script src="game.js"></script>
+    <script src="Lab jQuery.js"></script>
+  </body>
+</html>

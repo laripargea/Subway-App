@@ -1,0 +1,92 @@
+body {
+	font-family: Arial;
+	background-color: yellowgreen;
+}
+
+#mainList {
+	margin: 76px 0px 0px 0px;
+	padding: 15px 15px 0px 15px;
+	border: solid thin;
+	width: 700px;
+	list-style-type: none;
+	background-color: gold;
+}
+
+#gif {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 700px;
+  height: 700px;
+}
+
+.mainImg {
+	padding: 0px 0px 15px 0px;
+}
+
+.sandwich1 {
+  position: fixed;
+  top: 18%;
+  left: 19%;
+}
+
+.sandwich2 {
+  position: fixed;
+  top: 39%;
+  left: 19%;
+}
+
+.sandwich3 {
+  position: fixed;
+  top: 60%;
+  left: 19%;
+}
+
+.sandwich4 {
+  position: fixed;
+  top: 81%;
+  left: 19%;
+}
+
+#ulBar {
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.liBar {
+  float: left;
+  border-right:1px solid #bbb;
+  font-size: 18px;
+}
+
+.liBar:last-child {
+  border-right: none;
+}
+
+.liBar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 17px 16px;
+  text-decoration: none;
+}
+
+.liBar a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: darkgreen;
+}
+
+#imgBar {
+  width: 200px;
+  height: 50px;
+}

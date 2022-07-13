@@ -1,0 +1,44 @@
+body {
+	font-family: Arial;
+	background-color: lightyellow;
+}
+
+h1 {
+ 	margin: 20px;
+	color: darkgreen;
+	text-align: center;
+}
+
+table {
+	border: 8px solid darkgreen;
+	border-collapse: collapse;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
+
+th {
+	background-color: darkgreen;
+    color: lightyellow;
+}
+
+td {
+	border-bottom: 2px solid darkgreen;
+}
+
+img {
+	width: 300;
+	height: 350;
+}
+
+.green {
+	background-color: yellowgreen;
+}
+
+.yellow {
+	background-color: gold;
+}
+
+.no {
+	background-color: lightyellow;
+}

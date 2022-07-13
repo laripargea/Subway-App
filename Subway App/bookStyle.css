@@ -1,0 +1,35 @@
+html {
+  	height: 100%;
+}
+
+body {
+	background-position: center;
+	font-family: Arial;
+	background-image: url("https://i.pinimg.com/originals/ee/e9/59/eee9598c425187d42f7ff8733f39610a.jpg");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 100%;
+  	font-size: 18px;
+}
+
+h1 {
+	margin: 70px 0px 60px 0px;
+	text-align: center;
+	font-size: 35px;
+}
+
+p {
+	font-weight: bold;
+}
+
+table {
+	text-align: left;
+}
+
+th, td {
+	padding-right: 30px; 
+}
+
+select {
+	font-size: 15px;
+}

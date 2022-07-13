@@ -1,0 +1,43 @@
+html {
+  	height: 100%;
+}
+
+body {
+	background-position: center;
+	font-family: Arial;
+	background-image: url("https://wallpaperaccess.com/full/1727426.jpg");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	height: 100%;
+}
+
+h1 {
+	margin: 70px 0px 50px 0px;
+	text-align: center;
+	font-size: 35px;
+}
+
+table {
+	margin: 10px 10px 50px 10px;
+	text-align: left;
+	font-size: 25px;
+}
+
+th, td {
+	padding: 5px 45px 5px 5px;
+}
+
+h2 {
+	margin: 17px;
+	font-size: 25px;
+}
+
+label, input {
+	margin: 9px 2px 2px 17px;
+	font-size: 18px;
+}
+
+select {
+	margin: 9px 2px 2px 2px;
+	font-size: 18px;
+}

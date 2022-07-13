@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="list_menu.xslt"?>
+<menu>
+	<sandwich>
+		<name>Chicken Teriyaki</name>
+		<length>15 cm</length>
+		<bread>Wrap</bread>
+		<meat>Chicken Strips</meat>
+		<cheese>Mozarella</cheese>
+		<salad>Frischgemüse</salad>
+		<sauce>Süße Zwiebel</sauce>
+		<picture>https://mysubway.ro/wp-content/uploads/2020/11/Chicken-Teriyaki-wrap-1.jpg</picture>
+		<allergens>https://mysubway.sk/pdf/ro/allergens.pdf</allergens>
+		<price>9 €</price>
+	</sandwich>
+	<sandwich>
+		<name>Subway Melt</name>
+		<length>15 cm</length>
+		<bread>Vollkornbrot</bread>
+		<meat>Schweinefleischschinken</meat>
+		<cheese>Käse</cheese>
+		<salad>Frischgemüse</salad>
+		<sauce>keine</sauce>
+		<picture>https://mysubway.ro/wp-content/uploads/2020/08/Melt_TM.jpg</picture>
+		<allergens>https://mysubway.sk/pdf/ro/allergens.pdf</allergens>
+		<price>5 €</price>
+	</sandwich>
+	<sandwich>
+		<name>Easy sub veggie</name>
+		<length>30 cm</length>
+		<bread>Vollkornbrot</bread>
+		<meat>kein</meat>
+		<cheese>Mozarella</cheese>
+		<salad>Frischgemüse</salad>
+		<sauce>keine</sauce>
+		<picture>https://mysubway.ro/wp-content/uploads/2020/08/EasySub-Veggie.jpg</picture>
+		<allergens>https://mysubway.sk/pdf/ro/allergens.pdf</allergens>
+		<price>5 €</price>
+	</sandwich>
+	<sandwich>
+		<name>BBQ Chicken</name>
+		<length>15 cm</length>
+		<bread>Vollkornbrot</bread>
+		<meat>Hühnerfleisch</meat>
+		<cheese>keine</cheese>
+		<salad>Frischgemüse</salad>
+		<sauce>BBQ</sauce>
+		<picture>https://mysubway.ro/wp-content/uploads/2019/08/BBQ-Chicken-02.jpg</picture>
+		<allergens>https://mysubway.sk/pdf/ro/allergens.pdf</allergens>
+		<price>8 €</price>
+	</sandwich>
+	<sandwich>
+		<name>Tuna</name>
+		<length>15 cm</length>
+		<bread>Weißbrot</bread>
+		<meat>Thunfisch</meat>
+		<cheese>keine</cheese>
+		<salad>Frischgemüse</salad>
+		<sauce>Mayonnaise</sauce>
+		<picture>https://mysubway.ro/wp-content/uploads/2019/08/Tuna-02.jpg</picture>
+		<allergens>https://mysubway.sk/pdf/ro/allergens.pdf</allergens>
+		<price>6 €</price>
+	</sandwich>
+	<sandwich>
+		<name>Big Beef Melt</name>
+		<length>15 cm</length>
+		<bread>Vollkornbrot</bread>
+		<meat>Rindfleisch</meat>
+		<cheese>American Cheese</cheese>
+		<salad>Frischgemüse</salad>
+		<sauce>BBQ</sauce>
+		<picture>https://mysubway.ro/wp-content/uploads/2019/08/Tuna-02.jpg</picture>
+		<allergens>https://mysubway.sk/pdf/ro/allergens.pdf</allergens>
+		<price>10 €</price>
+	</sandwich>
+	<sandwich>
+		<name>Chicken Mango Tikka</name>
+		<length>30 cm</length>
+		<bread>Weißbrot</bread>
+		<meat>Hühnerfleisch</meat>
+		<cheese>keine</cheese>
+		<salad>Mango</salad>
+		<sauce>Mayonnaise</sauce>
+		<picture>https://mysubway.ro/wp-content/uploads/2019/08/Mango-Chicken-Tikka-02.jpg</picture>
+		<allergens>https://mysubway.sk/pdf/ro/allergens.pdf</allergens>
+		<price>15 €</price>
+	</sandwich>
+	<sandwich>
+		<name>Quesadilla with vegetables</name>
+		<length>30 cm</length>
+		<bread>Wrap</bread>
+		<meat>kein</meat>
+		<cheese>Cheddar</cheese>
+		<salad>Paprika</salad>
+		<sauce>keine</sauce>
+		<picture>https://mysubway.ro/wp-content/uploads/2019/08/Vegetarian-quesadilla-01.jpg</picture>
+		<allergens>https://mysubway.sk/pdf/ro/allergens.pdf</allergens>
+		<price>7 €</price>
+	</sandwich>
+</menu>
